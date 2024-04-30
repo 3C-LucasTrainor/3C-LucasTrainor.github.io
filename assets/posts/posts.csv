@@ -1,6 +1,6 @@
-title,description,author,date
-Docker for WMS,Need a dev server fast? Use Docker!,Lucas Trainor, 4-22-24
-Pitfalls of PIA,Thinking of using pre-inventory allocation (PIA)? Read this first!,J Hall Schenck,4-1-24
-WMS DevOps,How to streamline your modification deployment pipeline.,Kent Acton,3-23-24
-Interleaving,What is it and why should you care?,Nick Davis,3-1-24
-Optimizing SQL Performance,Having trouble with your custom SQL queries?,Lucas Trainor,2-11-24
+name,title,description,author,date
+docker,Docker for WMS,Need a dev server fast? Use Docker!,Lucas Trainor, 4-22-24
+pia,Pitfalls of PIA,Thinking of using pre-inventory allocation (PIA)? Read this first!,J Hall Schenck,4-1-24
+devops,WMS DevOps,How to streamline your modification deployment pipeline.,Kent Acton,3-23-24
+interleaving,Interleaving,What is it and why should you care?,Nick Davis,3-1-24
+sql-performance,Optimizing SQL Performance,Having trouble with your custom SQL queries?,Lucas Trainor,2-11-24
